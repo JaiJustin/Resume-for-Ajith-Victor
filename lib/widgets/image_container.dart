@@ -10,7 +10,7 @@ class ImageContainer extends StatelessWidget {
         decoration: BoxDecoration(
           shape: BoxShape.circle,
           image: DecorationImage(
-              image: AssetImage('images/ajith4.jpg'), fit: BoxFit.fitWidth),
+              image: AssetImage('images/ajith3.jpg'), fit: BoxFit.fitWidth),
         ),
       ),
     );
