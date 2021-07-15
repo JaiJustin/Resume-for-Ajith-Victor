@@ -2,6 +2,9 @@
 
 ![resum screenShort](https://user-images.githubusercontent.com/87418257/125802793-998c1812-7114-4557-a549-635c5bfb0348.png)
 
+![rsume sceernshort](https://user-images.githubusercontent.com/87418257/125803527-ab065774-ee2d-4c94-a6d0-2207b01cdf07.png)
+
+
 A Rsume App for Ajith Victor
 
 ## Getting Started
